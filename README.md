@@ -11,6 +11,7 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65 height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="react"  width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"  width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs"     width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/>
