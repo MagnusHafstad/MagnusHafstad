@@ -5,7 +5,7 @@
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a student at NTNU Trondheim and M.C.S. Studying Indøk
+- 🏦 I'm a student at NTNU Trondheim, Studying Indøk
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
