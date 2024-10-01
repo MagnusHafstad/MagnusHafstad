@@ -6,7 +6,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a student at NTNU Trondheim, Studying Indøk
-- 🧑‍💻 Tech I work on :
+- 🧑‍💻 Tech I've worked with :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
